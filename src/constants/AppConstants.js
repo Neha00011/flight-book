@@ -25,7 +25,7 @@ export const LOWEST_FARE_LIST = [
     {
         id:4,
         heading:"Flights to Sydney",
-        price:"$43",
+        price:"$45",
         image:SydneyImage
     }  
 ]
